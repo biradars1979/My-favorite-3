@@ -24,7 +24,7 @@ img {
 }
 .menu{
 list-style: none;
-position:sticky;
+position:fixed;
 right: 30px;    
 top: 0px;
 cursor: pointer;
