@@ -7,7 +7,6 @@
     width: 100%;
     height: 100%;
     padding-top:20px;
-    text-align:center;
 }
 
 .line {
@@ -55,9 +54,6 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
   text-align:center;
 }
 
-  a{
-    text-decoration: none;
-}
   h1{
  padding-top:30px;
 }
