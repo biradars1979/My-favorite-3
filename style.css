@@ -61,7 +61,8 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
   height:150px;
   border:#ff4da6 inset 6px;
   border-radius: 90px;
-  background-color: dodgerblue;    
+  background-color: dodgerblue; 
+    <hr>
 }
 p{
   font-family:cursive;
